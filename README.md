@@ -30,7 +30,6 @@ This system bridges the gap between older professional cameras (like Sony DSR-50
 
 ### Gimbal Mechanics
 - Based on [this 3D printable gimbal design](https://www.myminifactory.com/object/3d-print-camera-gimbal-95406)
-- Modified for heavier professional cameras
 - NEMA 17 stepper motors with microstepping drivers
 
 ### LANC Control Circuit
