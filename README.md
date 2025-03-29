@@ -6,6 +6,7 @@ Web Interface
 ![Web interface](https://github.com/user-attachments/assets/1da027f7-d23d-4321-b558-914af4772593)
 
  A WiFi-controlled 3D printed gimbal system that adds remote pan/tilt control and LANC camera functions to professional video cameras.
+ https://youtu.be/CrQyl959BNA
 
 ## Project Concept
 
