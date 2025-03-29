@@ -1,4 +1,4 @@
-# ESP8266 LANC-Controlled Camera Gimbal
+# ESP8266 Wifi Controlled Camera Gimbal with LANC
 
 3D Printed Gimbal with Camera docs/images![Camera Gimbal](https://github.com/user-attachments/assets/678f2cbf-d083-4ea2-b25e-12a536f71439)
 
