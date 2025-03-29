@@ -13,7 +13,7 @@ This system bridges the gap between older professional cameras (like Sony DSR-50
 - 🖥️ **Web-based control interface** accessible from any device
 - 🤖 **3D printed pan-tilt mechanism** for smooth camera movement thats supports a handy cam or DSLR
 - 📡 **WiFi remote control** of camera functions via LANC protocol
-- 📱 **Mobile-friendly interface** with tactile controls
+
 
 ### Key Features
 
@@ -21,7 +21,7 @@ This system bridges the gap between older professional cameras (like Sony DSR-50
 |---------------|----------------|--------------|
 | ▶️ Start/Stop Recording | ↔️ Pan Control | 📶 WiFi Web Interface |
 | 🔍 Zoom In/Out | ↕️ Tilt Control | 🌐 mDNS (hostname.local) |
-| 🎚️ Focus Control | 💾 Position Presets | 📱 Works on Mobile |
+| 🎚️ Focus Control | 💾 Position Presets |
 | ⚙️ Auto Focus | 🏠 Home Position | |
 
 ## Hardware Implementation
