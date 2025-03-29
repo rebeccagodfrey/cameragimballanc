@@ -2,6 +2,7 @@
 
 ![3D Printed Gimbal with Camera](docs/images![Camera Gimbal](https://github.com/user-attachments/assets/678f2cbf-d083-4ea2-b25e-12a536f71439)
 
+Web Interface ![Web interface](https://github.com/user-attachments/assets/1da027f7-d23d-4321-b558-914af4772593)
 
 **Modernizing legacy cameras** - A WiFi-controlled 3D printed gimbal system that adds remote pan/tilt control and LANC camera functions to older professional video cameras.
 
