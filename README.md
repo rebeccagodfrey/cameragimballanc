@@ -1,9 +1,9 @@
 # ESP8266 LANC-Controlled Camera Gimbal
 
-![3D Printed Gimbal with Camera](docs/images![Camera Gimbal](https://github.com/user-attachments/assets/678f2cbf-d083-4ea2-b25e-12a536f71439)
+3D Printed Gimbal with Camera docs/images![Camera Gimbal](https://github.com/user-attachments/assets/678f2cbf-d083-4ea2-b25e-12a536f71439)
 
 Web Interface 
-![Web interface](https://github.com/user-attachments/assets/1da027f7-d23d-4321-b558-914af4772593)
+Web interface https://github.com/user-attachments/assets/1da027f7-d23d-4321-b558-914af4772593
 
  A WiFi-controlled 3D printed gimbal system that adds remote pan/tilt control and LANC camera functions to professional video cameras.
  https://youtu.be/CrQyl959BNA
@@ -61,3 +61,5 @@ This system bridges the gap between older professional cameras (like Sony DSR-50
 3. Build the stepper control circuit
 4. Build LANC interface circuit
 5. Wire all components
+   
+
